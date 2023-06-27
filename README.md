@@ -1,2 +1,2 @@
-# personal-blog
-A personal blog to record by daily work.
+# spline-react-example
+An example of using spline & react to create an application.
