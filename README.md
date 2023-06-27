@@ -1,2 +1,3 @@
-# spline-react-example
-An example of using spline & react to create an application.
+# Spline React Example
+
+An example of creating a spline & react application.
